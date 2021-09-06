@@ -13,7 +13,7 @@ class SnakeGame
 {
 private:
     int width, height; 
-    char head; 
+    char head; //
     char tail; // метка хвоста
     int hx, hy; // координаты головы
     bool over = false;
